@@ -1,0 +1,9 @@
+{
+  "name": "Q2 App Scraper",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Zechariah Guadiana",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
